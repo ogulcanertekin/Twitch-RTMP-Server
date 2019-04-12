@@ -1,0 +1,19 @@
+{
+  "name": "rtmp-server",
+  "version": "1.0.0",
+  "description": "Real-Time-Messaging-Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogulcanertekin/Twitch-RTMP-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogulcanertekin/Twitch-RTMP-Server/issues"
+  },
+  "homepage": "https://github.com/ogulcanertekin/Twitch-RTMP-Server#readme"
+}
