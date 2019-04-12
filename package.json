@@ -4,7 +4,7 @@
   "description": "Real-Time-Messaging-Protocol",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ogulcanertekin/Twitch-RTMP-Server/issues"
   },
-  "homepage": "https://github.com/ogulcanertekin/Twitch-RTMP-Server#readme"
+  "homepage": "https://github.com/ogulcanertekin/Twitch-RTMP-Server#readme",
+  "dependencies": {
+    "node-media-server": "^2.0.3"
+  }
 }
